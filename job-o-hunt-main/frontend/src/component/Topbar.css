@@ -1,0 +1,12 @@
+.topbar{
+    background-color: #463A87;
+    display:flex;
+    justify-content:space-around;
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+}
+
+.colorLink{
+    color: white;
+}

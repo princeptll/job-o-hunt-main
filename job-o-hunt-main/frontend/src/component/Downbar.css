@@ -1,0 +1,11 @@
+.downbar{
+    background-color: black;
+    display: flex;
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+
+.colorLink1{
+    color: khaki;
+}

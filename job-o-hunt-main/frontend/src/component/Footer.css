@@ -1,0 +1,27 @@
+.follow{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.colorIcon{
+    color: #463A87;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.leftFooter{
+    margin-left: 25px;
+    margin-right: 50px;
+}
+
+.midFooter{
+    margin-left:55px;
+}
+
+.block{
+    display: flex;
+}
+
+
